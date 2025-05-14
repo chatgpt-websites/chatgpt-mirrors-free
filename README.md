@@ -1,12 +1,12 @@
 # 【国内在线免费】国内免费 ChatGPT 镜像网站免费整理（2025年5月更新）
 
-> 更新日期：2025/05/01 
+> 更新日期：2025/05/15 
 
 本项目整理了国内可用且免费的 **ChatGPT 镜像网站**，方便**无需翻墙**也能体验使用 ChatGPT~
 
 国内能用的**ChatGPT 镜像网站**，满足国内用户使用ChatGPT、免费ChatGPT、ChatGPT中文版的需求~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.ai](https://chat.lanjing.ai)**   
+**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
 **ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
 ---
