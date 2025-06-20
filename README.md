@@ -1,30 +1,30 @@
-# 【国内在线免费】国内免费 ChatGPT 镜像网站免费整理（2025年5月更新）
+# 【国内在线免费】国内免费 ChatGPT 镜像网站免费整理（2025年6月更新）
 
-> 更新日期：2025/05/15 
+> 更新日期：2025/06/21 
 
 本项目整理了国内可用且免费的 **ChatGPT 镜像网站**，方便**无需翻墙**也能体验使用 ChatGPT~
 
 国内能用的**ChatGPT 镜像网站**，满足国内用户使用ChatGPT、免费ChatGPT、ChatGPT中文版的需求~
 
-**ChatGPT 中文版入口：[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站：[https://chat.yixiaai.com](https://chat.yixiaai.com)**
+**ChatGPT 中文版入口：[https://talk.lanjing.pro](https://talk.lanjing.pro)**   
+**ChatGPT 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
 ## 国内推荐的 ChatGPT镜像网站：
 
 以下是精选的国内优质 **ChatGPT 镜像网站**，提供高效的中文访问体验：
-- [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [yixiaai.cn](https://yixiaai.cn/) - **AI工具站**，各种AI工具，你想要的，这儿全都有~
-- [ai.lansejingyu.com](https://ai.lansejingyu.com/) - **ChatGPT-4 镜像**，支持 GPT4、4o，简单便捷~
-- [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [xsimplechat.com](https://xsimplechat.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+- [talk.lanjing.pro](https://talk.lanjing.pro/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [gpt4us.org](https://gpt4us.org/chatgpt-china-site) - **AI工具站**，各种AI工具，你想要的，这儿全都有~
+- [chat.yixiaai.com](https://chat.yixiaai.com/) - **ChatGPT-4 镜像**，支持 GPT4、4o，简单便捷~
+- [lanjing.ai](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ---
 
 ## 什么是 ChatGPT 镜像网站？
 
-**ChatGPT 镜像网站**（ChatGPT Mirror）是指通过复制原 ChatGPT官网内容和功能所创建的备用网站。有以下特色：
+[**ChatGPT 镜像网站**](https://talk.lanjing.pro)（ChatGPT Mirror）是指通过复制原 ChatGPT官网内容和功能所创建的备用网站。有以下特色：
 
 - **无需翻墙**：国内直接能用，使用镜像网站就可以~
 - **中文优化**：中文交互体验，提供更精准和智能的对话体验。
@@ -44,7 +44,7 @@
 ---
 
 ## 如何使用 ChatGPT镜像网站？（详细教程）
-1. 选择上方的网址，如：**[www.yixiaai.com](https://www.yixiaai.com/)**。
+1. 选择上方的网址，如：**[talk.lanjing.pro](https://talk.lanjing.pro/)**。
 2. 在左上角，点击登录（也可以直接提问）。
 3. 弹出二维码后，使用微信扫码即可。
 
